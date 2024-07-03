@@ -1,0 +1,15 @@
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfoInputs.cache
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfo.cs
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.csproj.CoreCompileInputs.cache
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.sourcelink.json
+/workspaces/2024-POO/Aula09/bin/Debug/net8.0/Aula09
+/workspaces/2024-POO/Aula09/bin/Debug/net8.0/Aula09.deps.json
+/workspaces/2024-POO/Aula09/bin/Debug/net8.0/Aula09.runtimeconfig.json
+/workspaces/2024-POO/Aula09/bin/Debug/net8.0/Aula09.dll
+/workspaces/2024-POO/Aula09/bin/Debug/net8.0/Aula09.pdb
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.dll
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/refint/Aula09.dll
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.pdb
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/Aula09.genruntimeconfig.cache
+/workspaces/2024-POO/Aula09/obj/Debug/net8.0/ref/Aula09.dll
